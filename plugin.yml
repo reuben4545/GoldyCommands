@@ -1,0 +1,9 @@
+name: GoldyCommandsv0.1
+version: 0.1
+main: me.silentbloodgaming.goldycommands.core.Main
+author: reuben4545
+description: Just a plugin reuben4545 made, and just has some simple commands in it.
+commands:
+   staffcommands:
+   description: Show's all of the commands for staff/admins.
+   aliases: [staffcmds, firstcmd, stcmds, stc, sc]
